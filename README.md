@@ -13,7 +13,7 @@
 	- Amante de la programación y videojuegos. Cuenta con su canal de **YouTube** y otras redes sociales.
 	- Se inspiró a crear este proyecto por un TikTok.
 
-###Partes del programa
+### Partes del programa
                     
 Partes  | Información
 ------------- | -------------
@@ -21,7 +21,9 @@ Número de Celular  | Ingresa el celular receptor
 Número de mensajes  | Ingresa la cantidad de mensajes
 Mensaje  | Lo que enviarás
 
-###:fa-check: Redes Sociales
+### Redes Sociales
+                    
+Página  | Link
                     
 Página  | Link
 ------------- | -------------
@@ -31,4 +33,4 @@ TikTok  | https://www.tiktok.com/@xddron
 Itch  | https://eluvitta.itch.io
 Sketchfab  | https://sketchfab.com/eluvitta
 
-## ¡Te esperamos! :tw-1f4aa:
+## ¡Te esperamos!
